@@ -1,0 +1,3 @@
+interface:
+  display_name: "并行施工 Collab"
+  short_description: "并行拆任务、多 Agent 协作调度与结果汇总的规范流程"
