@@ -1,3 +1,3 @@
 interface:
   display_name: "并行施工 Collab"
-  short_description: "并行拆任务、多 Agent 协作调度与结果汇总的规范流程"
+  short_description: "Main Codex 深拆需求为 CSV TODO，调度并行 Codex 执行并汇总交付"
